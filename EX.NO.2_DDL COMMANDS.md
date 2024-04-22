@@ -12,7 +12,7 @@ To perform DDL queries and DML Queries using SQL lite.
 ### List of DDL commands: 
 1. CREATE: This command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers).
 ##### Syntax
-![image](https://github.com/UmaRani-Github/DBMS_new/assets/144427076/58dd722d-4b4c-4728-87e3-ad05c0134d50)
+![image](https://github.com/UmaRani-Github/DBMS_new/assets/144427076/58dd722d-4b4c-4728-87e3-ad05c0134d50 = 250x250)
 2. DROP: This command is used to delete objects from the database.
 3. ALTER: This is used to alter the structure of the database.
 
